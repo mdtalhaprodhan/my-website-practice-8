@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: darkblue; 
+}
+body{
+    background-color: rgb(255, 238, 0);
+}
+.ta1 a{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 238, 0);
+    text-decoration: none;
+    
+    }
+
+.me{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box a{
+    border: 3px solid green;
+}
